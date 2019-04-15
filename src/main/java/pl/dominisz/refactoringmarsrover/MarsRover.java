@@ -1,4 +1,4 @@
-package mars.rover;
+package pl.dominisz.refactoringmarsrover;
 
 public class MarsRover {
 

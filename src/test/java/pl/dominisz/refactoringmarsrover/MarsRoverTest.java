@@ -1,4 +1,4 @@
-package mars.rover;
+package pl.dominisz.refactoringmarsrover;
 
 import org.junit.jupiter.api.Test;
 

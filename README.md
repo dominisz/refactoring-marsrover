@@ -1,29 +1,13 @@
-# MarsRover Refactoring Kata
-This refactoring kata is based on Google's MarsRover Technical challenge (that can be found [here](https://code.google.com/archive/p/marsrovertechchallenge/)).
+# Refactoring `MarsRover`
 
-In the original version, you are asked to write the solution for this challenge. 
-For this version, I provided the solution; but, my code is in a very bad shape (at least in my opinion). 
-
-Your role is to refactor this code to ensure it follows the clean code principles and best practices of design principles.   
-
-## Solving this Kata
-
-Here is what you need to do: 
-* Read the original description of the problem below
-* Fork this project to your own github account 
-* Write tests to cover all the cases described below  
-* Refactor the existing code in MarsRover.java while keeping the following points in mind:
-    * The tests should always be green
-    * Use Design Patterns 
-    * Follow the S.O.L.I.D principles 
-* Write a new feature that would not allow the rover to go out of boundaries 
-
+## Source
+Based on https://github.com/aatwi/MarsRover-Refactoring-Kata
 
 ## Problem Description
 
 The problem below requires some kind of input. You are free to implement any mechanism for feeding input into your solution (for example, using hard coded data within a unit test). You should provide sufficient evidence that your solution is complete by, as a minimum, indicating that it works correctly against the supplied test data.
 
-We highly recommend using a unit testing framework such as JUnit or NUnit. Even if you have not used it before, it is simple to learn and incredibly useful.
+We highly recommend using a unit testing framework such as JUnit. Even if you have not used it before, it is simple to learn and incredibly useful.
 
 The code you write should be of production quality, and most importantly, it should be code you are proud of.
 
